@@ -1,0 +1,17 @@
+h3{
+    text-align: center;
+    color: brown;
+    background-color: coral;
+    size: 30px;
+}
+h3:hover{
+    color: gray;
+    background-color: greenyellow;
+}
+h1{
+    color: hotpink;
+}
+h1:hover{
+    background-color: lightsalmon;
+    color: royalblue;
+}
