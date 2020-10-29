@@ -6,7 +6,7 @@ function App() {
   return (
     <div> 
       <h1>ABC Biryani</h1>
-      <Lunch Foods="Chicken Biryani" Price="100 pkr" />
+      <Lunch Foods="Beef Biryani large plate" Price="1000 pkr" /> //adding props values
   </div>
   );
 }
