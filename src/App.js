@@ -5,7 +5,7 @@ import Lunch from './lunch'
 function App() {
   return (
     <div> 
-      <h1>ABC Biryani</h1>
+      <h3>ABC Biryani</h3>  // title of app
       <Lunch Foods="Beef Biryani half plate" Price="100 pkr" /> //adding props values
   </div>
   );
